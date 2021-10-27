@@ -1,3 +1,3 @@
-bwypxyltwow.github.io
+bwypxyltwo.github.io
 
 happy every day \!

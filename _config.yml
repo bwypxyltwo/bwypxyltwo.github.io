@@ -22,12 +22,12 @@ favicon: https://github.com/bwypxyltwo/bwypxyltwo.github.io/images/favicon.ico
 navigation:
   - name: Home
     url: /
-  - name: 关于
-    url: /about
-  - name: 归档
-    url: /archive
   - name: 标签
     url: /tags
+  - name: 归档
+    url: /archive
+  - name: 关于
+    url: /about
 
 # Pagination
 paginate: 8

@@ -63,8 +63,8 @@ disqus: # fromend
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: 43b38138374da5f9a9d2
+  clientSecret: 745f7f9b87da48564d7ebd84e932ef164957a88a
   repo: bwypxyltwo.github.io
   owner: bwypxyltwo
 
